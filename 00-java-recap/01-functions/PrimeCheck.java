@@ -10,9 +10,8 @@ public class PrimeCheck {
 
     }
     public static void main(String[] args) {
-        if(isPrime(10) == true){
-
-        
+        boolean x= isPrime(10);
+        if(x == true){
         System.out.println("not prime");
         } else{
             System.out.println("prime");
