@@ -17,5 +17,5 @@ public class PrimeCheck {
         } else{
             System.out.println("prime");
         }
-    }
+    }           
 }
