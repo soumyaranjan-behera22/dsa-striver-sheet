@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class prime_check_optimize {
+public class primeCheckOptimized {
     public static boolean isPrime(int n){
         boolean check = true;
         for(int i =2;i*i<n;i++){
